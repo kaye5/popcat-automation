@@ -1,0 +1,25 @@
+1629079574126	geckodriver	INFO	Listening on 127.0.0.1:54627
+1629079577190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DEVELO~1\\AppData\\Local\\Temp\\rust_mozprofileB6MgHd"
+1629079578047	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Developer\\AppData\\Local\\Temp\\rust_mozprofileB6MgHd\\search.json.mozlz4", (void 0)))
+1629079581121	Marionette	INFO	Listening on port 61150
+1629079581411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629079749382	Marionette	INFO	Stopped listening on port 61150
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofile22rWRX"
+1629079612307	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Developer\\AppData\\Local\\Temp\\rust_mozprofile22rWRX\\search.json.mozlz4", (void 0)))
+1629079614251	Marionette	INFO	Listening on port 49459
+1629079614652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629079750118	Marionette	INFO	Stopped listening on port 49459
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofileQrGjTj"
+1629079632411	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Developer\\AppData\\Local\\Temp\\rust_mozprofileQrGjTj\\search.json.mozlz4", (void 0)))
+1629079634381	Marionette	INFO	Listening on port 56000
+1629079634655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629079805498	Marionette	INFO	Stopped listening on port 56000
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
